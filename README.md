@@ -31,3 +31,21 @@ This project is a simple, object-oriented ATM solution built using Java. It allo
    ```bash
    git clone <repository-url>
    cd ATM-Solution
+
+2. **Compile the Code**:
+   ```bash
+   javac ATM.java
+   
+3. **Run the Program**:
+   ```bash
+   java ATM
+
+4. **Expected Output**:
+   ```bash
+   The program will demonstrate deposits and withdrawals based on the provided test cases.
+
+## Execution Results:-
+![image](https://github.com/user-attachments/assets/46562016-ab51-41ad-bb5e-40922ea4b729)
+
+   
+
